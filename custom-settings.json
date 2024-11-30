@@ -1,11 +1,13 @@
-{
-  "includeLanguages": ["Java", "Python", "JavaScript", "C#", "Go"],
-  "excludeLanguages": ["HTML", "CSS"],
+"includeLanguages": ["Java", "Python", "JavaScript", "C#", "Go", "HTML", "CSS", "Ruby"],
+  "excludeLanguages": [],
   "weighting": {
     "Java": 1.0,
     "Python": 1.0,
     "JavaScript": 1.0,
     "C#": 0.8,
-    "Go": 0.8
+    "Go": 0.8,
+    "HTML": 0.5,
+    "CSS": 0.5,
+    "Ruby": 0.7
   }
 }
