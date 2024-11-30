@@ -1,4 +1,5 @@
-"includeLanguages": ["Java", "Python", "JavaScript", "C#", "Go", "HTML", "CSS", "Ruby"],
+{
+  "includeLanguages": ["Java", "Python", "JavaScript", "C#", "Go", "HTML", "CSS", "Ruby"],
   "excludeLanguages": [],
   "weighting": {
     "Java": 1.0,
