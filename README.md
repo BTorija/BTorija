@@ -39,4 +39,4 @@ Especialmente interesada en el desarrollo de software, VR, AR e IA.
 
 
 ## 📈 Trabajando en...
-![](./profile-3d-contrib/profile-season-animate.svg)
+![](./profile-3d-contrib/profile-night-rainbow.svg)
