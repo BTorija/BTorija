@@ -1,6 +1,6 @@
 # <img src="./images/sticker.webp" width=10% align=right /> Hola! Mi nombre es Beatriz
 
-**Desarrolladora de Aplicaciones Web y Multiplataforma** 💻 
+ 💻 
 
 <a href="https://www.linkedin.com/in/beatriz-t-9a66aa12b/" target="_blank"><img src="./images/banner.jpg" 
    borderRadius='1rem' boxShadow = '0 5px 18px rgba(0,0,0,0.3)'></a>
@@ -9,13 +9,13 @@
 Tras construir mi carrera profesional en el mundo Tech como Senior Key Account Manager IT, decidí
 en los últimos años adentrarme profundamente en mi pasíon por la programacón y por expandir mi creatividad.
 Desde que abrí esa puerta, cada reto ha sido una emocionante aventura!
-Especialmente interesada en el desarrollo de software, VR, AR e IA.  
+ 
 
 ## Contacto
 
 [![Email](https://img.shields.io/badge/Mail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:beatorija@gmail.com)
 [![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://x.com/BWMFS/)
-[![Linkedln](https://img.shields.io/badge/website-000000?style=for-the-badge&logo=About.me&logoColor=white)](https://www.linkedin.com/in/beatriz-t-9a66aa12b/)
+[![Linkedln](https://img.shields.io/badge/website-000000?style=for-the-badge&logo=About.me&logoColor=white)](https://www.linkedin.com/in/)
 
 
 ## ⚡ Tecnologías más usadas
